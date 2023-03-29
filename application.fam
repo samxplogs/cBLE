@@ -1,0 +1,7 @@
+{
+  "name": "BLE Device Scanner",
+  "version": "1.0.0",
+  "author": "samxplogs",
+  "description": "A simple application that scans for nearby BLE devices and displays the count on the screen.",
+  "entry": "_main"
+}
